@@ -67,7 +67,7 @@ public:
 
 int main() {
 
-    /*CP4 8.11
+    // CP4 8.11
     int n= 4;
     FordFulkerson ff(n);
 
@@ -76,7 +76,7 @@ int main() {
     ff.add_edge(2, 1, 1 );
     ff.add_edge(2, 3, 8 );
     ff.add_edge(1, 3, 8 );
-    */
+
 
     /*CP4 Ex Correct
     int n= 8;
